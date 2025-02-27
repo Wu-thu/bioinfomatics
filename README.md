@@ -1,4 +1,4 @@
-# bioinfomatics
+# bioinformatics
 
 Welcome!
 
